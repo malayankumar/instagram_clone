@@ -171,9 +171,9 @@ body {
                         height: 50px;
                         width: 50px;
                         border-radius: 50%;
-                        display: flex;
+                        /* display: flex;
                         justify-content: center;
-                        align-items: center;
+                        align-items: center; */
                         margin: 1px;
 
                     }
@@ -261,9 +261,9 @@ body {
         position: fixed;
         bottom: 0;
         height: 40px;
-        width: 100%;
+        /* width: 100%; */
         width: 480px;
-        background-color: black;
+        background-color: rgb(10, 0, 0);
         color: white;
         z-index: 5;
         align-items: center;
@@ -278,7 +278,7 @@ body {
         }
 
         .footer-img {
-            height: 1.5em;
+            height: 20px;
             aspect-ratio: 1/1;
             border-radius: 50%;
             overflow: hidden;
@@ -291,4 +291,3 @@ body {
         }
     }
 }
-/* gfyegyhdvjeg */
